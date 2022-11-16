@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    max-width: 1168px;
+    background-color: black;
+    margin: 0 auto;
+}
+.features-container{
+display: flex;
+justify-content: space-between;
+text-align: center;
+flex-wrap: wrap;
+}
+.card{
+width: 100%;
+padding: 20px 0;
+max-width: 379px;
+margin-bottom: 16px;
+height: 490px;
+background-color: white;
+border: 1px solid red;
+border-radius: 20px;
+text-align: center;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+-o-boorder-radius: 20px;
+
+}
+.qism{
+    width: 100%;
+    max-width: 1168px;
+    background-color: bisque;
+
+
+
+
+
+    box-sizing: border-box;
+    display: flex;
+justify-content: start;
+}

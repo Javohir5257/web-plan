@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+color: white;
+}
+.header{
+width: 100%;
+/* max-width: 600px; */
+display: flex;
+background-color: rgb(218, 10, 107);
+margin: auto;
+justify-content: center;
+align-items: center;
+/* display: inline-block; */
+}
+.codes{
+    background-color: rgb(120, 25, 69);
+    padding: 30px;
+    margin: 30px;
+    justify-content: center;
+align-items: center;
+}
+.button{
+width: 500px;
+padding: 5px;
+height: 50px;
+justify-content: center;
+align-items: center;
+color: black;
+font-size: 30px;
+border-radius: 5px;
+border: 0px;
+}
+.login{
+padding: 150px;
+    width: 100%;
+/* max-width: 600px; */
+display: flex;
+background-color:blue ;
+margin:auto;
+justify-content:center;
+align-items: center;
+color: black;
+}
+.email{background-color: white;
+padding: 60px;
+color: black;
+justify-content:center;
+align-items: center;
+}
+.color-login{
+    background-color: green;
+    border: 0px;
+    width: 166px;
+    padding: 5px;
+    color: white;
+    justify-content:center;
+align-items: center;
+  
+}
